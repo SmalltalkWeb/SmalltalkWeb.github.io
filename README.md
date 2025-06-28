@@ -8,10 +8,10 @@ The initiative is open to all dialects of Smalltalk, encouraging cross-dialect r
 
 SmalltalkWeb includes now the projects below, listed alphabetically. But more are welcome. 
 
-[CodeParadise](https://github.com/ErikOnBike/CodeParadise),
-[PharoJS](https://pharojs.org),
-[SmallJS](https://small-js.org)
-[WebST](https://github.com/bouraqadi/WebST).
+- [CodeParadise](https://github.com/ErikOnBike/CodeParadise),
+- [PharoJS](https://pharojs.org),
+- [SmallJS](https://small-js.org)
+- [WebST](https://github.com/bouraqadi/WebST).
 
 
 With the above project, you can develop your code in Smalltalk and run it in the browser.
