@@ -8,19 +8,16 @@ The initiative is open to all dialects of Smalltalk, encouraging cross-dialect r
 
 SmalltalkWeb includes now the projects below, listed alphabetically. But more are welcome. 
 
-- [CodeParadise](https://github.com/ErikOnBike/CodeParadise),
-- [PharoJS](https://pharojs.org),
-- [SmallJS](https://small-js.org)
-- [WebST](https://github.com/bouraqadi/WebST).
-
+- [CodeParadise](https://github.com/ErikOnBike/CodeParadise): Run tiny Pharo Images on JavaScript.
+- [Parasol](https://github.com/SeasideSt/Parasol): Testing web apps in Smalltalk using Selenium WebDriver. 
+- [PharoJS](https://pharojs.org): Develop in Pharo, run on JavaScript.
+- [RenoirST](https://github.com/ba-st/RenoirSt): A DSL enabling programmatic cascading style sheet generation for Pharo Smalltalk. 
+- [Seaside](https://github.com/SeasideSt/Seaside): Framework for developing sophisticated web applications in Smalltalk. 
+- [SmallJS](https://small-js.org): New Smalltalk flavour with seamless JavaScript integration, enabling file-based development from Visual Studio Code.
+- [SqueakJS](https://squeak.js.org/): A fully capable virtual machine implemented in pure JavaScript running unmodified Smalltalk images.
+- [Stargate](https://github.com/ba-st/Stargate): targate is a library supporting the creation of HTTP based RESTful APIs.
+- [WebST](https://github.com/bouraqadi/WebST): Develop in Pharo, run Web Components = HTML + JS + CSS.
+- [Willow](https://github.com/ba-st/Willow): Ready-to-use components for interactive web applications + framework-agnostic integration.
 
 With the above project, you can develop your code in Smalltalk and run it in the browser.
-Most of them also offer a broader support, allowing code to be run in Electron or NodeGui or as a back-end solution on Node.js, deno or bun.
-
-## Use Cases
-
-The file [UseCases.md](UseCases.md) describes typical use cases per framework.
-
-## Features
-
-The file [Features.md](Features.md) compares features of the frameworks.
+Some projects also offer a broader support, allowing code to be run in Electron or NodeGui or as a back-end solution on Node.js, deno or bun.
