@@ -14,6 +14,7 @@ Some projects also offer a broader support, allowing code to be run in Electron 
 SmalltalkWeb includes now the projects below, listed alphabetically. If your project is not on the list, please make a [Pull Request](https://github.com/SmalltalkWeb/SmalltalkWeb.github.io/pulls).
 
 - [CodeParadise](https://github.com/ErikOnBike/CodeParadise): Run tiny Pharo Images on JavaScript.
+- [Foliage](https://github.com/noha/Foliage): A simple static website generator.
 - [Hyperspace](https://github.com/ba-st/Hyperspace): Hyperspace provides building blocks for Internet technologies on top of Zinc HTTP Components.
 - [Parasol](https://github.com/SeasideSt/Parasol): Testing web apps in Smalltalk using Selenium WebDriver. 
 - [PharoJS](https://pharojs.org): Develop in Pharo, run on JavaScript.
@@ -22,8 +23,9 @@ SmalltalkWeb includes now the projects below, listed alphabetically. If your pro
 - [SmallJS](https://small-js.org): New Smalltalk flavour with seamless JavaScript integration, enabling file-based development from Visual Studio Code.
 - [SqueakJS](https://squeak.js.org/): A fully capable virtual machine implemented in pure JavaScript running unmodified Smalltalk images.
 - [Stargate](https://github.com/ba-st/Stargate): targate is a library supporting the creation of HTTP based RESTful APIs.
-- [Superluminal](https://github.com/ba-st/Superluminal): Building blocks for creating HTTP requests and API clients
+- [Superluminal](https://github.com/ba-st/Superluminal): Building blocks for creating HTTP requests and API clients.
 - [WebST](https://github.com/bouraqadi/WebST): Develop in Pharo, run Web Components = HTML + JS + CSS.
+- [TeaPot](https://github.com/zeroflag/Teapot): Teapot is micro web framework for Pharo Smalltalk on top of the Zinc HTTP components, that focuses on simplicity and ease of use.
 - [Willow](https://github.com/ba-st/Willow): Ready-to-use components for interactive web applications + framework-agnostic integration. There is a [tutorial with the first steps to use Willow](https://medium.com/mercap-tech-blog/willow-introduction-d498e198dd4a). Willow has the following sub-projects and extensions:
     + [Willow-Auth0](https://github.com/ba-st/Willow-Auth0)
     + [Willow-Bootstrap](https://github.com/ba-st/Willow-Bootstrap)
