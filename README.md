@@ -40,7 +40,7 @@ SmalltalkWeb includes now the projects below, listed alphabetically. If your pro
 - [TeaPot](https://github.com/zeroflag/Teapot): Teapot is micro web framework for Pharo Smalltalk on top of the Zinc HTTP components, that focuses on simplicity and ease of use.
 
 ### W
-- [WebST](https://github.com/bouraqadi/WebST): Develop in Pharo, run Web Components = HTML + JS + CSS.
+- [WebST](https://github.com/SmalltalkWeb/WebST): Develop in Pharo, run Web Components = HTML + JS + CSS.
 - [Willow](https://github.com/ba-st/Willow): Ready-to-use components for interactive web applications + framework-agnostic integration. There is a [tutorial with the first steps to use Willow](https://medium.com/mercap-tech-blog/willow-introduction-d498e198dd4a). Willow has the following sub-projects and extensions:
     + [Willow-Auth0](https://github.com/ba-st/Willow-Auth0)
     + [Willow-Bootstrap](https://github.com/ba-st/Willow-Bootstrap)
