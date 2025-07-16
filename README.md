@@ -30,7 +30,10 @@ SmalltalkWeb includes now the projects below, listed alphabetically. If your pro
 - [RenoirST](https://github.com/ba-st/RenoirSt): A DSL enabling programmatic cascading style sheet generation for Pharo Smalltalk.
 
 ### S
-- [Seaside](https://github.com/SeasideSt/Seaside): Framework for developing sophisticated web applications in Smalltalk. 
+- [Seaside](https://github.com/SeasideSt/Seaside): Framework for developing sophisticated web applications in Smalltalk.
+    + [BootstrapTable-Pharo](https://github.com/rko281/BootstrapTable-Pharo): A Seaside component for Pharo wrapping Bootstrap Table.
+    + [MaterialDesignLite](https://github.com/DuneSt/MaterialDesignLite): Binding for the Google's Material Design Lite to Seaside + widgets on top of Material Design to help Seaside developers in creating fast web application with flat design.
+    + [Seaside-Bootstrap5](https://github.com/astares/Seaside-Bootstrap5): Bootstrap 5 wrapper for Seaside for Pharo
 - [SmallJS](https://small-js.org): New Smalltalk flavour with seamless JavaScript integration, enabling file-based development from Visual Studio Code.
 - [SqueakJS](https://squeak.js.org/): A fully capable virtual machine implemented in pure JavaScript running unmodified Smalltalk images.
 - [Stargate](https://github.com/ba-st/Stargate): targate is a library supporting the creation of HTTP based RESTful APIs.
@@ -38,6 +41,7 @@ SmalltalkWeb includes now the projects below, listed alphabetically. If your pro
 
 ### T
 - [TeaPot](https://github.com/zeroflag/Teapot): Teapot is micro web framework for Pharo Smalltalk on top of the Zinc HTTP components, that focuses on simplicity and ease of use.
+    + [TeaLight](https://github.com/astares/Tealight): Tealight is a web and REST framework for Pharo. It defines a few extensions to the Teapot web framework to make the (tea) time you spend with the Pharo Teapot system even easier.
 
 ### W
 - [WebST](https://github.com/SmalltalkWeb/WebST): Develop in Pharo, run Web Components = HTML + JS + CSS.
