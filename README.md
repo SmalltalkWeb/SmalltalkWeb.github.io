@@ -31,9 +31,10 @@ SmalltalkWeb includes now the projects below, listed alphabetically. If your pro
 
 ### S
 - [Seaside](https://github.com/SeasideSt/Seaside): Framework for developing sophisticated web applications in Smalltalk.
-    + [BootstrapTable-Pharo](https://github.com/rko281/BootstrapTable-Pharo): A Seaside component for Pharo wrapping Bootstrap Table.
-    + [MaterialDesignLite](https://github.com/DuneSt/MaterialDesignLite): Binding for the Google's Material Design Lite to Seaside + widgets on top of Material Design to help Seaside developers in creating fast web application with flat design.
-    + [Seaside-Bootstrap5](https://github.com/astares/Seaside-Bootstrap5): Bootstrap 5 wrapper for Seaside for Pharo
+    + [BootstrapTable-Pharo](https://github.com/rko281/BootstrapTable-Pharo): A Seaside component for Pharo wrapping [Bootstrap Table](https://getbootstrap.com/docs/4.0/content/tables/).
+    + [MaterialDesignLite](https://github.com/DuneSt/MaterialDesignLite): Binding for the Google's [Material Design Lite](https://getmdl.io/) to Seaside + widgets on top of Material Design to help Seaside developers in creating fast web application with flat design.
+    + [Seaside-Bootstrap5](https://github.com/astares/Seaside-Bootstrap5): Seaside wrapper for [Bootstrap 5](https://getbootstrap.com/docs/5.3/getting-started/introduction/) for Pharo
+    + [Seaside-Datatables](https://github.com/eMaringolo/seaside-datatables): Seaside wrapper for [DataTables](https://datatables.net/) plugin
 - [SmallJS](https://small-js.org): New Smalltalk flavour with seamless JavaScript integration, enabling file-based development from Visual Studio Code.
 - [SqueakJS](https://squeak.js.org/): A fully capable virtual machine implemented in pure JavaScript running unmodified Smalltalk images.
 - [Stargate](https://github.com/ba-st/Stargate): targate is a library supporting the creation of HTTP based RESTful APIs.
